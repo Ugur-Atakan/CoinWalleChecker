@@ -10,6 +10,11 @@
     "test": "jest"
   },
   "dependencies": {
+    "alchemy-sdk": "^3.1.0",
+    "axios": "^1.6.2",
+    "big-int": "^0.0.6",
+    "big-integer": "^1.6.52",
+    "decimal.js": "^10.4.3",
     "react": "18.2.0",
     "react-native": "0.73.0"
   },
